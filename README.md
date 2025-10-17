@@ -18,7 +18,7 @@ the mentor and counselors, solutions, tasks and plans that are curated for them.
 2.Enable higher authorities to get real time dashboards and reports about the risk and retentions 
 for decision making.
 <br>
-3.Automate the at-risk alerts about the student so that the mentor can act proactively. 
+3.Automate the at-risk alerts about the student so that the mentor,counselor can act proactively. 
 <br>
 4.Track the interactions to measure the effectiveness. 
 <br>
